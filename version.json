@@ -1,5 +1,1 @@
-{
-  "versionCode": 111,
-  "apkUrl": "https://github.com/gglnpr-afk/flare-updates/releases/download/Flare-1.0-V111/flarevpn-1.0.apk",
-  "notes": "FlareVPN build 111 - connection fix for VLESS, VMess, Trojan, Shadowsocks and Hysteria2 keys. TUIC already worked in build 110."
-}
+{"versionCode":112,"apkUrl":"https://github.com/gglnpr-afk/flare-updates/releases/download/Flare-1.0-V112/flarevpn-1.0.apk","notes":"Build 112: country flags for all keys + Home map pin and location card."}
